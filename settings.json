@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "hive.aternos.me",
-    "port": 45805,
+    "ip": "gameplannet.aternos.me",
+    "port": 43658,
     "version": "1.12.1"
   },
   
